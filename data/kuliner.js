@@ -8,7 +8,8 @@ const kuliner = [
         "category": "Kedai Sup",
         "location": "Jl. H.M. Sarbini No.142 B, Megabiru, Karangsari, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah 54317",
         "contact": "081227404342",
-        "ratings": 4.3
+        "ratings": 4.3,
+        "status": "Recommended"
       },
       {
         "id": 2,
@@ -19,7 +20,8 @@ const kuliner = [
         "category": "Kedai Sup",
         "location": "Jl. Kutoarjo No.39, Pekisen, Selang, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah 54314",
         "contact": "0287383284",
-        "ratings": 4.5
+        "ratings": 4.5,
+        "status": "Terlaris"
       },
       {
         "id": 3,
@@ -30,7 +32,8 @@ const kuliner = [
         "category": "Sate",
         "location": "Jl. Raya Ambal, Kebumen",
         "contact": "083234567892",
-        "ratings": 4.8
+        "ratings": 4.8,
+        "status": "Top Rating"
       },
       {
         "id": 4,
@@ -41,7 +44,8 @@ const kuliner = [
         "category": "Snack",
         "location": "Ds. Tanjungsari, Kec. Kebumen",
         "contact": "084334567893",
-        "ratings": 4.4
+        "ratings": 4.4,
+        "status": "Recommended"
       },
       {
         "id": 5,
@@ -52,7 +56,8 @@ const kuliner = [
         "category": "Jajanan",
         "location": "Pasar Wonosari, Kebumen",
         "contact": "085434567894",
-        "ratings": 4.3
+        "ratings": 4.3,
+        "status": "Terlaris"
       },
       {
         "id": 6,
@@ -63,7 +68,8 @@ const kuliner = [
         "category": "Soto",
         "location": "Jl. Pemuda No. 45, Kebumen",
         "contact": "086534567895",
-        "ratings": 4.6
+        "ratings": 4.6,
+        "status": "Top Rating"
       },
       {
         "id": 7,
@@ -74,7 +80,8 @@ const kuliner = [
         "category": "Makanan",
         "location": "Jl. Veteran No. 12, Kebumen",
         "contact": "087634567896",
-        "ratings": 4.5
+        "ratings": 4.5,
+        "status": "Recommended"
       },
       {
         "id": 8,
@@ -85,7 +92,8 @@ const kuliner = [
         "category": "Jajanan",
         "location": "Pasar Selang, Kebumen",
         "contact": "088734567897",
-        "ratings": 4.2
+        "ratings": 4.2,
+        "status": "Terbaru"
       },
       {
         "id": 9,
@@ -96,7 +104,8 @@ const kuliner = [
         "category": "Minuman",
         "location": "Jl. Patimura No. 34, Kebumen",
         "contact": "089834567898",
-        "ratings": 4.3
+        "ratings": 4.3,
+        "status": "Terbaru"
       },
       {
         "id": 10,
@@ -107,7 +116,8 @@ const kuliner = [
         "category": "Snack",
         "location": "Ds. Karangsari, Kebumen",
         "contact": "081934567899",
-        "ratings": 4.1
+        "ratings": 4.1,
+        "status": "Terbaru"
       },
       {
         "id": 11,
@@ -118,7 +128,8 @@ const kuliner = [
         "category": "Makanan",
         "location": "Jl. Ahmad Yani No. 56, Kebumen",
         "contact": "082044567800",
-        "ratings": 4.4
+        "ratings": 4.4,
+        "status": "Recommended"
       },
       {
         "id": 12,
@@ -129,7 +140,8 @@ const kuliner = [
         "category": "Minuman",
         "location": "Alun-alun Kebumen",
         "contact": "082144567811",
-        "ratings": 4.7
+        "ratings": 4.7,
+        "status": "Top Rating"
       },
       {
         "id": 13,
@@ -140,7 +152,8 @@ const kuliner = [
         "category": "Makanan",
         "location": "Jl. Diponegoro No. 22, Kebumen",
         "contact": "082244567822",
-        "ratings": 4.6
+        "ratings": 4.6,
+        "status": "Top Rating"
       },
       {
         "id": 14,
@@ -151,7 +164,8 @@ const kuliner = [
         "category": "Snack",
         "location": "Ds. Tanjungmeru, Kebumen",
         "contact": "082344567833",
-        "ratings": 4.3
+        "ratings": 4.3,
+        "status": "Terlaris"
       },
       {
         "id": 15,
@@ -162,7 +176,8 @@ const kuliner = [
         "category": "Makanan",
         "location": "Jl. Pahlawan No. 78, Kebumen",
         "contact": "082444567844",
-        "ratings": 4.5
+        "ratings": 4.5,
+        "status": "Recommended"
       }
 ];
 
